@@ -1,0 +1,1 @@
+需要安装Pyside6和Pyusb相关库
